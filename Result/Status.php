@@ -35,7 +35,7 @@ class Status
     const ERROR = 400;
 
     /**
-     * The systems behavior could be determined.
+     * The systems behavior could not be determined.
      */
     const UNKNOWN = 450;
 
